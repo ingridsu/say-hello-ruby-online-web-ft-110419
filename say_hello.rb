@@ -1,2 +1,1 @@
-def say_hello.rb 
-  say_hello("Gabriela")
+say_hello("Gabriela")
